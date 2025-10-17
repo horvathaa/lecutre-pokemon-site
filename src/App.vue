@@ -6,9 +6,8 @@
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <h1>Hi 6.1040! Welcome to the Pokémon Site</h1>
     </div>
   </header>
 
